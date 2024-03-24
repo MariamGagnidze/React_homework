@@ -1,0 +1,36 @@
+.article img {
+  width: 100%;
+}
+.article {
+  width: 65%;
+  /* box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.2), 0 4px 20px 0 rgba(0, 0, 0, 0.19); */
+  padding-bottom: 15px;
+}
+.headingg {
+  display: flex;
+  flex-direction: column;
+}
+.headingg span {
+  color: gray;
+}
+.headingg h5 {
+  color: black;
+  font-weight: 400;
+  font-size: 18px;
+}
+.bttn {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.bttn button {
+  padding: 15px 20px 15px 20px;
+  border: 1px solid gray;
+}
+.comments span {
+  background-color: black;
+  color: white;
+  padding: 5px 12px;
+}

@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=News+Cycle:wght@700&family=Telex&display=swap');
+
+.heading{
+    display: block;
+    text-align: center;      
+}
+.heading span{
+    background-color: black;
+    color: white;
+}
